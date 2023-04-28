@@ -1,4 +1,4 @@
-# *__Informática__* :wink:
+# **__Informática__** :wink:
 Po | Scrum Master | Scrum Team
 :---: | :---: | :---:
 Ezenildo | Milly | Daniel
